@@ -1,11 +1,19 @@
 # 我的Miku / MyMiku
+
 版本：1.1.0.2
+
 作者：张鑫辉(GitHub:zhangxinhui02)
+
 运行平台：Windows XP以上
+
 运行框架：.Net Framework 4.0
+
 开发语言：C#
+
 开发环境：Visual Studio 2017
+
 程序打包：Inno Setup
+
 
 简介：一个桌面助手程序，集成了一些实用工具。
 
@@ -21,8 +29,11 @@ Microsoft .Net Framework 4.0下载链接：
 https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=17718
 
 第34届宁夏青少年科技创新大赛参赛作品。
+
 因为是初学，代码质量非常差，只是实现了基本的功能。
+
 以后应该还会继续开发。
 
 **本程序依据MIT协议开源。**
+
 2020-02-10
