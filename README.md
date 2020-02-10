@@ -19,14 +19,14 @@
 
 **请保证计算机上安装有Microsoft .Net Framework 4.0框架，否则程序无法正常运行。**
 
-安装程序下载链接：https://github.com/zhangxinhui02/MyMiku/releases/download/1.1.0.2/MyMiku1.1.0.2.exe。
+安装程序下载链接： https://github.com/zhangxinhui02/MyMiku/releases/download/1.1.0.2/MyMiku1.1.0.2.exe 。
 
-查看源代码：https://github.com/zhangxinhui02/MyMiku。
+查看源代码： https://github.com/zhangxinhui02/MyMiku 。
 
-程序部分代码尚未编写完成，程序内的网址已停止维护，请转至https://zhangxinhui02.github.io/MyMiku和https://zhangxinhui02.github.io/MyMiku.html关注。
+程序部分代码尚未编写完成，程序内的网址已停止维护，请转至 https://zhangxinhui02.github.io/MyMiku 和 https://zhangxinhui02.github.io/MyMiku.html 关注。
 
-Microsoft .Net Framework 4.0下载链接：
-https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=17718
+Microsoft .Net Framework 4.0下载链接： https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=17718 。
+
 
 第34届宁夏青少年科技创新大赛参赛作品。
 
