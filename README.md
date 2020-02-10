@@ -19,7 +19,7 @@
 
 **请保证计算机上安装有Microsoft .Net Framework 4.0框架，否则程序无法正常运行。**
 
-安装程序下载链接： https://github.com/zhangxinhui02/MyMiku/releases/download/1.1.0.2/MyMiku1.1.0.2.exe 。
+安装程序下载链接： https://github.com/zhangxinhui02/MyMiku/releases/download/v1.1.0.2/MyMiku1.1.0.2.exe 。
 
 查看源代码： https://github.com/zhangxinhui02/MyMiku 。
 
