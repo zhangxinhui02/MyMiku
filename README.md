@@ -10,7 +10,7 @@
 
 开发语言：C#
 
-开发环境：Visual Studio 2017
+开发环境：Visual Studio 2019
 
 程序打包：Inno Setup
 
@@ -34,6 +34,6 @@ Microsoft .Net Framework 4.0下载链接： https://www.microsoft.com/zh-cn/down
 
 以后应该还会继续开发。
 
-**本程序依据MIT协议开源。**
+**本程序依据Apache协议开源。**
 
 2020-02-10
